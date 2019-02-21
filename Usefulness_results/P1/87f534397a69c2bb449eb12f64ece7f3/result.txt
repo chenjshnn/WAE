@@ -1,0 +1,7 @@
+name:87f534397a69c2bb449eb12f64ece7f3
+usefilness:5
+diversity:5
+relevantId:['0', '0', '1', '1', '0', '1', '1', '1', '0', '1']
+comment: Most of image are useful and related to my design.
+task_id:['3']
+time:['1700'] s
