@@ -1,0 +1,7 @@
+name:fbd78ad9f0b4b896ac72027716d3df5a
+usefilness:4
+diversity:3
+relevantId:['1', '0', '1', '0', '0', '0', '0', '0', '1', '0']
+comment:it can be helpful ,but the diversity is not enough
+task_id:['4']
+time:['174.114'] s

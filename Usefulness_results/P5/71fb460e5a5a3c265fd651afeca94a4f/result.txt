@@ -1,0 +1,7 @@
+name:71fb460e5a5a3c265fd651afeca94a4f
+usefilness:2
+diversity:1
+relevantId:['0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+comment:Maybe cannot give me some examples containing as much photos as I printed.
+task_id:['1']
+time:['675.058'] s

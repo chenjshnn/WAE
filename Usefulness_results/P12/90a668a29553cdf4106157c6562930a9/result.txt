@@ -1,0 +1,7 @@
+name:90a668a29553cdf4106157c6562930a9
+usefilness:5
+diversity:5
+relevantId:['0', '1', '1', '1', '1', '1', '0', '1', '0', '1']
+comment:By adding more variety (different types of components), I can improve the result, which then can give me more inspiration. This is very useful.
+task_id:['3']
+time:['591.283'] s

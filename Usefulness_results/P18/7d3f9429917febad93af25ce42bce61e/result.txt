@@ -1,0 +1,7 @@
+name:7d3f9429917febad93af25ce42bce61e
+usefilness:3
+diversity:4
+relevantId:['0', '1', '0', '0', '0', '0', '1', '0', '0', '1']
+comment:Three result hits.
+task_id:['3']
+time:['288.221'] s

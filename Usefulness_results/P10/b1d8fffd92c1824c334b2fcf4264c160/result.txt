@@ -1,0 +1,7 @@
+name:b1d8fffd92c1824c334b2fcf4264c160
+usefilness:5
+diversity:5
+relevantId:['1', '0', '0', '0', '1', '0', '0', '0', '0', '1']
+comment:The examples provided below are really helpful! With the guide of such example, users may easily figure out their expected UI and draw it one the draft board.  Hopefully the recommending system could thus come up with precise recommendations.
+task_id:['4']
+time:['1111.647'] s

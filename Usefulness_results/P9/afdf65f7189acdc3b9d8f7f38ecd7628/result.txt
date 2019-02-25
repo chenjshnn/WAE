@@ -1,0 +1,7 @@
+name:afdf65f7189acdc3b9d8f7f38ecd7628
+usefilness:1
+diversity:1
+relevantId:['0', '0', '0', '0', '0', '0', '1', '0', '0', '0']
+comment:Not exactly what I designed. I designed a page to view images with caption. But I did not find a page like that in the search results.
+task_id:['1']
+time:['160.221'] s

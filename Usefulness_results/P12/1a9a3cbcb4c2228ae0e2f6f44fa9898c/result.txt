@@ -1,0 +1,7 @@
+name:1a9a3cbcb4c2228ae0e2f6f44fa9898c
+usefilness:3
+diversity:4
+relevantId:['0', '1', '1', '0', '0', '1', '0', '0', '1', '1']
+comment:I found it was quite hard to decide which component to use in the first place. Also, it is hard to design overlapping layouts. Both of these problems affect my search result a lot. However the results play an important role in my design.
+task_id:['4']
+time:['545.453'] s

@@ -1,0 +1,7 @@
+name:0ebd0049d958143af3cfd461c8c346e5
+usefilness:3
+diversity:4
+relevantId:['0', '1', '0', '0', '0', '0', '0', '0', '1', '1']
+comment:Found one page that matched quite well, one partially matched and one matched very slightly. Others were not relevant. 
+task_id:['3']
+time:['268.443'] s

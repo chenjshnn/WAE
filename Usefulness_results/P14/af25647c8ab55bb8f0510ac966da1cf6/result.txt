@@ -1,0 +1,7 @@
+name:af25647c8ab55bb8f0510ac966da1cf6
+usefilness:3
+diversity:3
+relevantId:['0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+comment:Recommendations are relevant to my expectations and learnt my indication of layout.
+task_id:['4']
+time:['704.003'] s

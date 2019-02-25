@@ -1,0 +1,7 @@
+name:baf84721f4fc1d7be7c45c66b91840e6
+usefilness:1
+diversity:4
+relevantId:['0', '0', '0', '1', '1', '0', '0', '0', '0', '0']
+comment:The recommendation is not quiet like what I expect. Since it is too far away from my expectations, I didn't get much inspiration out of it. 
+task_id:['0']
+time:['451.541'] s

@@ -1,0 +1,7 @@
+name:3de0bbc454e9fe09eb742fb9ad7bdb17
+usefilness:3
+diversity:2
+relevantId:['0', '0', '1', '1', '0', '0', '0', '0', '0', '0']
+comment:I got some relevant recommendations in the first search while the two have the similar design. I then modified my design closer to the recommendations ans search again to see whether more relevant recommendations will be returned. I didn't get more relevant results.  
+task_id:['2']
+time:['231.397'] s

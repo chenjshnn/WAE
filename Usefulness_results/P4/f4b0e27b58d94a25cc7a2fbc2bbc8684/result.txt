@@ -1,0 +1,7 @@
+name:f4b0e27b58d94a25cc7a2fbc2bbc8684
+usefilness:5
+diversity:4
+relevantId:['0', '1', '0', '0', '1', '1', '0', '1', '1', '0']
+comment: 
+task_id:['3']
+time:['110.503'] s

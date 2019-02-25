@@ -1,0 +1,7 @@
+name:8cccff2d3a5b5c793bfb163816ab2f0e
+usefilness:3
+diversity:4
+relevantId:['0', '0', '0', '0', '1', '0', '0', '0', '0', '0']
+comment:I was looking for a sign in view with two text boxes and a "remember me or not" option but only one seems to be relevant.
+task_id:['2']
+time:['221.76'] s

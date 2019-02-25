@@ -1,0 +1,7 @@
+name:f2772e50b246cedb2964564bb410a5d3
+usefilness:4
+diversity:4
+relevantId:['0', '0', '0', '1', '0', '0', '0', '0', '0', '1']
+comment:The relevance of this recommendation is improved compared to the previous ones.
+task_id:['2']
+time:['184.164'] s
