@@ -2,5 +2,7 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 
 
 DEMO: 
-[](https://youtu.be/StTKtI2s5IA)
+
+[![](http://img.youtube.com/vi/StTKtI2s5IA/0.jpg)](https://youtu.be/StTKtI2s5IA "UI Design Search Demo")
+
 
