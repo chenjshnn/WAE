@@ -3,6 +3,7 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 
 ****
 ## DEMO
+Left-click to watch this video.
 [![](https://github.com/fsewae/fse_wae/blob/master/database_img/how.PNG)](https://youtu.be/S9tQZWY1UrY "UI Design Search Demo")
 
 ----------
