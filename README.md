@@ -6,7 +6,7 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 
 ----------
 ## Design Space
-[![](https://github.com/fsewae/fse_wae/blob/master/database_img/DesignSpace.pdf "Design Space")]
+<p align="center"><img src="https://github.com/fsewae/fse_wae/blob/master/database_img/DesignSpace.pdf"></p>
 
 ----------
 ## W-AE examples
