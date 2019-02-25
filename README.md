@@ -9,16 +9,8 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 <p align="center"><img src="https://github.com/fsewae/fse_wae/blob/master/database_img/DesignSpace.png"></p>
 
 ----------
-## W-AE examples
-![]
+## Some examples from automatic experiments
 
-----------
-## Failure examples
-### GUIFetch
-
-### SIFT
-
-### Hist
 
 ----------
 ## Usefulness Evaluation Examples
