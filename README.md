@@ -7,7 +7,10 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 ----------
 ## Design Space
 <p align="center"><img src="https://github.com/fsewae/fse_wae/blob/master/database_img/DesignSpace.png"></p>
+----------
 <p align="center"><img src="https://github.com/fsewae/fse_wae/blob/master/database_img/database.png"></p>
+
+
 ----------
 ## Some examples from automatic experiments
 
