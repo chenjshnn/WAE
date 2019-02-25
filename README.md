@@ -12,7 +12,7 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 
 
 ----------
-## Some examples from automatic experiments
+## Some examples
 
 
 ----------
