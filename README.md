@@ -17,7 +17,7 @@ The website in demo is not supported currently.
 
 ----------
 ## Examples
-
+<p align="center"><img src="https://github.com/fsewae/fse_wae/blob/master/database_img/approach_examples.png"></p>
 
 ----------
 ## Usefulness Evaluation Examples
