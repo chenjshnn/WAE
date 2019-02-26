@@ -21,3 +21,4 @@ The website in demo is not supported currently.
 
 ----------
 ## Usefulness Evaluation Examples
+![Usefulness Examples](https://github.com/fsewae/fse_wae/blob/master/database_img/Usefulness_example.pdf)
