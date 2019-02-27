@@ -23,4 +23,4 @@ Due to the large size of our automatic experiment results (which is about 45GB),
 ## Usefulness Evaluation Examples
 ![Usefulness Examples](https://github.com/fsewae/fse_wae/blob/master/database_img/Usefulness_example.pdf)
 
-More results can be seen in <u>Usefulness_results<\u> Folder.
+<p>More results can be seen in <u>Usefulness_results<\u> Folder.<p>
