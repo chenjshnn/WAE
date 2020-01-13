@@ -108,99 +108,121 @@ def drawImageLabel(inputFile_xml, fileHash, directory, specificOutputDir):
 	e = 0
 	f = 0
 	g = 0
-	def calcArea(dimensions):
-		w = dimensions['to'][0] - dimensions['from'][0]
-		h = dimensions['to'][1] - dimensions['from'][1]
-		return w * h
-
-	def getCoordinates(line):
-		#coordinates = re.findall(r"(?<=\[).*?(?=\])", node.attrib["bounds"])
-		coordinates = re.findall(r"(?<=\[).*?(?=\])", re.findall(r'bounds="(.+?)"', line)[0])
-		dim = {}
-		dim['from'] = tuple(map(int, coordinates[0].split(",")))
-		dim['to'] = tuple(map(int, coordinates[1].split(",")))
-		return dim
 
 	def imageWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), outline="#ffffff", fill="#ff0000")
-		draw.line((dimensions['from'], dimensions['to']), fill="#ffffff", width=2)
-		draw.line((dimensions['from'][0], dimensions['to'][1], dimensions['to'][0], dimensions['from'][1]), fill="#ffffff", width=2)
-
+		im = Image.open(open('UIelement3/ImageView.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		if wid==0 or hei== 0:
+			return
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
+		
 	def editTextWF(draw, dimensions, base):
-		fntsize = 1
-		draw.rectangle((dimensions['from'], dimensions['to']), outline="black", fill="#0000ff")
+		im = Image.open(open('UIelement3/EditView.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def buttonWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), outline="#323232", fill="#ffff00")
+		im = Image.open(open('UIelement3/Button.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def textViewWF(draw, dimensions, base):
-		draw.rectangle((tuple(numpy.add(dimensions['from'],(10, 10))), tuple(numpy.subtract(dimensions['to'],(10, 10)))), fill="#00ff00")
+		im = Image.open(open('UIelement3/TextView.bmp','rb')).convert('RGBA')
+		x1,y1 = dimensions['from']
+		x2,y2 = dimensions['to']
+		wid = x2 - x1
+		hei = y2 - y1
+		
+		if wid > 0 and hei > 0:
+			im = im.resize((wid,hei),Image.ANTIALIAS)
+			base.paste(im, (tuple(numpy.add(dimensions['from'],(10, 10)))))
 
 	def toggleButtonWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), outline="#486996", fill="#8eb3ee")
+		im = Image.open(open('UIelement3/ToggleButton.png','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def checkedTextViewWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), outline="#343434", fill="#4fccc6")
+		im = Image.open(open('UIelement3/CheckedTextView.png','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def checkBoxWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), fill="#f1c40f")
+		im = Image.open(open('UIelement3/CheckBox.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def progressBarWF(draw, dimensions, base):
 		#draw.rectangle((dimensions['from'], dimensions['to']), fill="#636363")
 		w = dimensions['to'][0] - dimensions['from'][0]
 		h = dimensions['to'][1] - dimensions['from'][1]
-
-		if w > h and w > 2 * h:
-			im = Image.open('UIelement/progressbar_horizontal.png').convert('RGBA').resize((w, h))
-		elif h > w and h > 2 * w:
-			im = Image.open('UIelement/progressbar_vertical.png').convert('RGBA').resize((w, h))
-		else:
-			im = Image.open('UIelement/progressbar_circular.png').convert('RGBA').resize((w, h))
+		im = Image.open('UIelement3/ProgressBar.bmp').convert('RGBA').resize((w, h))
 
 		base.paste(im, (dimensions['from']))
 
 	def radioButtonWF(draw, dimensions, base):
-		draw.ellipse((dimensions['from'][0], dimensions['from'][1], dimensions['to'][0], dimensions['to'][1]), fill="#ffff00")
+		im = Image.open(open('UIelement3/RadioButton.png','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def switchWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), fill="#607d8b")
-		switch = {}
-		switch["from"] = tuple((dimensions["from"][0] + ((dimensions["to"][0] - dimensions["from"][0])/2), dimensions["from"][1]))
-		switch["to"] = dimensions["to"]
-		draw.rectangle((switch["from"], switch["to"]), fill="#fbea38")
+		im = Image.open(open('UIelement3/Switch.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def seekBarWF(draw, dimensions, base):
 		#draw.rectangle((dimensions['from'], dimensions['to']), fill="#000000")
 		w = dimensions['to'][0] - dimensions['from'][0]
 		h = dimensions['to'][1] - dimensions['from'][1]
 		if w < h:
-			im = Image.open('UIelement/seekbar_vertical.png').convert('RGBA').resize((w, h))
+			im = Image.open('UIelement3/seekbar_vertical.png').convert('RGBA').resize((w, h))
 		else:
-			im = Image.open('UIelement/seekbar_horizontal.png').convert('RGBA').resize((w, h))
+			im = Image.open('UIelement3/seekbar_horizontal.png').convert('RGBA').resize((w, h))
 		base.paste(im, (dimensions['from']))
 
 	def webViewWF(draw, dimensions, base):
-		draw.rectangle((dimensions['from'], dimensions['to']), fill="#535353")
+		return
+		im = Image.open(open('UIelement3/WebView.bmp','rb')).convert('RGBA')
+		wid = dimensions['to'][0] - dimensions['from'][0]
+		hei = dimensions['to'][1] - dimensions['from'][1]
+		im = im.resize((wid,hei),Image.ANTIALIAS)
+		base.paste(im, (dimensions['from']))
 
 	def videoViewWF(draw, dimensions, base):
-		im = Image.open('UIelement/videoview.png').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
+		im = Image.open('UIelement3/VideoView.bmp').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
 		base.paste(im, (dimensions['from']))
 
 	def spinnerWF(draw, dimensions, base):
-		im = Image.open('UIelement/spinner.png').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
+		im = Image.open('UIelement3/spinner.png').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
 		base.paste(im, (dimensions['from']))
 
 	def ratingBarWF(draw, dimensions, base):
 		w = dimensions['to'][0] - dimensions['from'][0]
 		h = dimensions['to'][1] - dimensions['from'][1]
 		if w < h:
-			im = Image.open('UIelement/ratingbar_vertical.png').convert('RGBA').resize((w, h))
+			im = Image.open('UIelement3/ratingbar_vertical.png').convert('RGBA').resize((w, h))
 		else:
-			im = Image.open('UIelement/ratingbar_horizontal.png').convert('RGBA').resize((w, h))
+			im = Image.open('UIelement3/ratingbar_horizontal.png').convert('RGBA').resize((w, h))
 		base.paste(im, (dimensions['from']))
 
 	def chronometerWF(draw, dimensions, base):
-		im = Image.open('UIelement/chronometer.png').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
+		im = Image.open('UIelement3/chronometer.png').convert('RGBA').resize((dimensions['to'][0] - dimensions['from'][0], dimensions['to'][1] - dimensions['from'][1]))
 		base.paste(im, (dimensions['from']))
 
 
