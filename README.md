@@ -1,6 +1,12 @@
 Wireframe-Based UI Design Search Through Image Autoencoder
 ============================================================
 
+## Resource
+
+- Paper: [paper](./tosem2020-uisearch-jieshan.pdf)
+- Dataset: Coming soon
+
+
 ## Video DEMO
 <p><b>Left-click to watch this video.</b></p>
 
