@@ -1,13 +1,5 @@
 # Code for Wireframe-based UI Design Search Through Image Autoencoder
 
-## Structure
-
-|_ \*\*.py: source code
-
-|_ train_data: toy training data
-
-|_ test_data: toy testing data
-
 
 ## Image Preprocessing
 
