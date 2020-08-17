@@ -1,7 +1,0 @@
-name:f30294e6f1f9a254e9fd997cc34db5d2
-usefilness:5
-diversity:4
-relevantId:['1', '0', '0', '0', '1', '1', '1', '1', '1', '1']
-comment:Pretty good, helps a lot,I can find the one that I need.
-task_id:['3']
-time:['468.785'] s

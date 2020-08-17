@@ -1,7 +1,0 @@
-name:0b8ac0265dce68dd7de0d1f9beeb5be1
-usefilness:3
-diversity:4
-relevantId:['1', '1', '1', '0', '0', '0', '0', '0', '0', '0']
-comment:Some of the results are revelant, but most results make no sense.
-task_id:['0']
-time:['494.391'] s

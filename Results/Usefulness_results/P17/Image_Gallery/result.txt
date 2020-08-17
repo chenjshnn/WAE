@@ -1,7 +1,0 @@
-name:892fbc8dbd34c65cc61bf5069f4ff3ea
-usefilness:3
-diversity:3
-relevantId:['0', '0', '0', '0', '0', '1', '1', '0', '0', '0']
-comment:Only a few of them are very useful, they provide layouts I want. The others are not relevant enough but provide different design styles.
-task_id:['1']
-time:['773.736'] s

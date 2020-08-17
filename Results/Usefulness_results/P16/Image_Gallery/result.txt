@@ -1,7 +1,0 @@
-name:db492fed4b01e80edac0218e155c0908
-usefilness:1
-diversity:5
-relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-comment:I was looking for an image view that can display an image above, with a description and a rating button below, just like the Instagram layout, but unfortunately the returned images did not have that.
-task_id:['1']
-time:['282.655'] s

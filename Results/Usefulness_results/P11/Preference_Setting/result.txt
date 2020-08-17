@@ -1,7 +1,0 @@
-name:e3f380c2abc69ca7bb7315c05a3265ed
-usefilness:5
-diversity:5
-relevantId:['0', '1', '0', '1', '1', '1', '0', '0', '0', '1']
-comment:It can recommend related results in a variety of styles.
-task_id:['3']
-time:['265.15'] s

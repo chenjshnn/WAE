@@ -1,7 +1,0 @@
-name:3564911280755506311a87be915fed4c
-usefilness:2
-diversity:3
-relevantId:['0', '0', '0', '0', '1', '0', '0', '0', '0', '0']
-comment:don't match very well. maybe what I design is not a standard form page?
-task_id:['0']
-time:['259.671'] s

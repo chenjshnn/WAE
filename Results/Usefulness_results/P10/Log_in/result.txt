@@ -1,7 +1,0 @@
-name:945b69f7e75a58bc9392e95f17d8539b
-usefilness:5
-diversity:5
-relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-comment: One of the recommended interface is really appealing. Most of them fit my expectation but lack aesthetic. Overall the recommendation is fine
-task_id:['2']
-time:['394.62'] s

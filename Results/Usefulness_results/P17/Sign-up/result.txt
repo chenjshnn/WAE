@@ -1,7 +1,0 @@
-name:6fed7379e023c0834e08c1563cdf88df
-usefilness:5
-diversity:4
-relevantId:['1', '1', '0', '1', '0', '0', '1', '0', '0', '0']
-comment:Some of the screenshots are very useful, they provide me with various design styles and remind me of some essential widgets I forgot. The others are not good enough.
-task_id:['0']
-time:['491.875'] s

@@ -1,7 +1,0 @@
-name:e516c636187cba0a3a4762b21094f391
-usefilness:5
-diversity:5
-relevantId:['1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-comment:These screenshots provide me with various design styles, they are useful.
-task_id:['3']
-time:['479.72'] s

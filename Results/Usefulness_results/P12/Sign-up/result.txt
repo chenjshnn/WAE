@@ -1,7 +1,0 @@
-name:b182e41dc21ac85b42f9d83a95f6a6a8
-usefilness:5
-diversity:5
-relevantId:['1', '1', '1', '1', '1', '1', '1', '0', '0', '0']
-comment:The search is quite useful for inspiration and modify my design several times and  decide this final design.
-task_id:['0']
-time:['835.509'] s

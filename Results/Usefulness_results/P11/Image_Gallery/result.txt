@@ -1,7 +1,0 @@
-name:7953e6d2090e83cfe23c4cf2e6a5619c
-usefilness:3
-diversity:3
-relevantId:['0', '0', '0', '0', '0', '1', '0', '0', '1', '0']
-comment:this tool can recommend relevant results, but the relevance of the recommended results needs to be further improved
-task_id:['1']
-time:['271.578'] s

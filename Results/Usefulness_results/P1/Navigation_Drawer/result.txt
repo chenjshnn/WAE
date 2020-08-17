@@ -1,7 +1,0 @@
-task_id:['4']
-name:af873930144c0ddcbd5a74211bc86276
-usefilness:5
-diversity:5
-relevantId:['1', '0', '0', '0', '1', '1', '0', '1', '0', '0']
-comment: Some of them are good. Five images are not navigation browser, but still useful.
-time:['1200'] s

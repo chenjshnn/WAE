@@ -1,7 +1,0 @@
-name:19f9961464345b1f1234e4d6895372f9
-usefilness:5
-diversity:5
-relevantId:['1', '1', '1', '1', '1', '1', '1', '0', '1', '0']
-comment: It provides design with different layouts and has some different components which I can add to my design. However, it did not recall the EditView in my design. Hope it can be more precise on the components I drawed. 
-task_id:['1']
-time:['376.322'] s

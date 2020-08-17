@@ -1,7 +1,0 @@
-name:25b5344ac60167d7ea8f83bb1c1fae1e
-usefilness:5
-diversity:5
-relevantId:['1', '0', '1', '0', '0', '0', '1', '0', '0', '1']
-comment:I find lots of UI that match my design, this is very helpful
-task_id:['2']
-time:['118.752'] s

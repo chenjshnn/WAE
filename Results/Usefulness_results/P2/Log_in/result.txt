@@ -1,8 +1,0 @@
-name:b470bb4cbca1f5ebbd1e9ad23e2befc8
-usefilness:3
-diversity:4
-relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-comment:after adding the imageview, it attaches a lot of unrelative things. all I want is a logo and the input. But it seems failed. There better one is that Facebook.
-what I want can referee to the layout without imageview.
-time:['112.25'] s
-task_id:['2']

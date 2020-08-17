@@ -1,7 +1,0 @@
-name:38c086135f6b0873aed7bda9eea5350d
-usefilness:5
-diversity:5
-relevantId:['1', '0', '0', '0', '0', '1', '1', '0', '1', '1']
-comment:the recommendation is useful for me to have a clearer draft.
-task_id:['0']
-time:['574.617'] s
