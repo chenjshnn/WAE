@@ -29,6 +29,6 @@ Due to the large size of our automatic experiment results (which is about 45GB),
 
 ## Usefulness Evaluation Examples
 
-<img src="./assets/Usefulness_example.pdf" alt-txt= "Usefulness Examples"></img>
+See [examples](./assets/Usefulness_example.pdf)
 
-<p>More results can be seen in Usefulness_results Folder.<p>
+[More results](./results/Usefulness_results)
