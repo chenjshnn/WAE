@@ -1,0 +1,7 @@
+name:70c094787fd94296b1f52576bf1308da
+usefilness:5
+diversity:5
+relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+comment:This tool does recommend some interfaces related to filling in personal information.
+task_id:['0']
+time:['994.567'] s

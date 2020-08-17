@@ -1,0 +1,7 @@
+name:d080c864e0c2d2e299231b75f836337e
+usefilness:3
+diversity:3
+relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
+comment:I only find little search results that is relevant to my design
+task_id:['3']
+time:['206.077'] s

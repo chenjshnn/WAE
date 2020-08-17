@@ -1,0 +1,7 @@
+name:8d61e7cbcec9939f19e0dfc80618d824
+usefilness:5
+diversity:4
+relevantId:['0', '0', '0', '1', '0', '0', '0', '0', '0', '0']
+comment:I find something similar to my design, but this diversity is not good enough
+task_id:['1']
+time:['311.217'] s

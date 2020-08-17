@@ -1,0 +1,7 @@
+name:2c8ea9309d32a90d90e8fef62e5baa62
+usefilness:3
+diversity:1
+relevantId:['0', '0', '1', '0', '1', '0', '1', '0', '0', '1']
+comment:None of the recommendation is relevant for the first search. I deleted the edit fields and did the search again. The second search is still not relevant. I then went to the example section and modified my design to a similar design but all recommendations are still not relevant. I finally got few useful recommendations until I follow exactly the conventions provided in the example.
+task_id:['3']
+time:['658.252'] s

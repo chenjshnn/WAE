@@ -1,0 +1,7 @@
+name:f829251a9d6d35ae39869c2c18d6d67f
+usefilness:1
+diversity:4
+relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '1']
+comment:Amost none of them are revelant?
+task_id:['1']
+time:['210.498'] s

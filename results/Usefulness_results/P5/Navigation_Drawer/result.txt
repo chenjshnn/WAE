@@ -1,0 +1,7 @@
+name:a1d3a39ac979db137a2a4ccf93d1841d
+usefilness:5
+diversity:4
+relevantId:['1', '1', '1', '0', '1', '0', '1', '1', '1', '1']
+comment:if more different colors example is better, I think it helps a lot right now.
+task_id:['4']
+time:['333.013'] s

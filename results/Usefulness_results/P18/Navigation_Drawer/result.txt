@@ -1,0 +1,7 @@
+name:017cab50007836e45fb926bffe5f3c1a
+usefilness:2
+diversity:5
+relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+comment:None of result hits, maybe I did something wrong?
+task_id:['4']
+time:['217.051'] s

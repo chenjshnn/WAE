@@ -1,0 +1,7 @@
+name:6aef77af74af17311c03bedf060e79f7
+usefilness:4
+diversity:3
+relevantId:['1', '0', '0', '0', '1', '1', '0', '0', '0', '0']
+comment:Did get some inspirations
+task_id:['4']
+time:['149.471'] s

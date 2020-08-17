@@ -1,0 +1,7 @@
+name:ffe47ddf0819c1f288c4840c0fb64742
+usefilness:4
+diversity:4
+relevantId:['0', '1', '1', '0', '1', '0', '0', '0', '1', '0']
+comment:I don't like the unrelated info, like stars or something in the gift surface. I just want a text with app name in the top. and it shows pic and text below.  
+time:['200.279'] s
+task_id:['1']

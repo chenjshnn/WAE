@@ -1,0 +1,7 @@
+name:6b06d4f0133c495c8b850776c0180f31
+usefilness:3
+diversity:3
+relevantId:['0', '0', '0', '0', '0', '0', '1', '0', '0', '0']
+comment:Found one page that was similar, the others were not relevant
+task_id:['2']
+time:['151.912'] s

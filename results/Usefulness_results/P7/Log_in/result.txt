@@ -1,0 +1,7 @@
+name:e0353132bd03bce7c73679022e24af81
+usefilness:5
+diversity:4
+relevantId:['0', '0', '0', '1', '0', '0', '1', '1', '0', '0']
+comment:perfect!!!!!
+task_id:['2']
+time:['254.571'] s

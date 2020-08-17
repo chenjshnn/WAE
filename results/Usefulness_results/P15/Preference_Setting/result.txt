@@ -1,0 +1,7 @@
+name:4cd879dea3a1af46e7fcfa55bcd41245
+usefilness:3
+diversity:3
+relevantId:['0', '0', '0', '0', '1', '1', '0', '0', '0', '1']
+comment:a little bit confusing about some of the results, for example whether  language choosing is also a kind of setting page? 
+task_id:['3']
+time:['290.425'] s

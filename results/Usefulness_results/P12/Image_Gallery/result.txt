@@ -1,0 +1,7 @@
+name:a59b01683faac7c30ee7680df3a571d2
+usefilness:5
+diversity:5
+relevantId:['1', '1', '1', '0', '1', '1', '1', '1', '0', '0']
+comment:The system is very robust, it can provide me similar results when I make small changes to my design. 
+task_id:['1']
+time:['645.575'] s

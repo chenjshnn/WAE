@@ -1,0 +1,7 @@
+name:3352eaecf765e1654424107cb3a77ec7
+usefilness:3
+diversity:5
+relevantId:['1', '1', '0', '1', '1', '1', '0', '0', '1', '1']
+comment:The result contains many "forgot password" pages, looks very similar to log in pages. I consider them to be relevant and useful.
+task_id:['2']
+time:['408.682'] s
