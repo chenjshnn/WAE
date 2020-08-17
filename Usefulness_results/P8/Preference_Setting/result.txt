@@ -1,7 +1,0 @@
-name:66ce1e7294468c3d7312997afff729d7
-usefilness:3
-diversity:2
-relevantId:['0', '0', '1', '1', '0', '1', '0', '0', '0', '0']
-comment:I want the toggle button here, but the result all show check button.
-task_id:['3']
-time:['224.482'] s

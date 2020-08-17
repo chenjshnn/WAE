@@ -1,7 +1,0 @@
-name:bc8a06ec9745f27b214df1b895acfe98
-usefilness:1
-diversity:3
-relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
-comment:Nearly none of them fit I want. It looks like if you add the RatingBar, the result will turn worrier.
-task_id:['0']
-time:['180.423'] s

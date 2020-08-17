@@ -1,7 +1,0 @@
-name:3d121a82a228b36149e8bbe0017eaa79
-usefilness:4
-diversity:4
-relevantId:['0', '0', '0', '1', '1', '1', '1', '1', '0', '1']
-comment:Found a lot of pages that matched the design. But not all of them were navigation pages.
-task_id:['4']
-time:['333.759'] s

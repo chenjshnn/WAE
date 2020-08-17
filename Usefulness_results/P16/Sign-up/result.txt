@@ -1,7 +1,0 @@
-relevantId: ['1', '1', '1', '1', '1', '0', '1', '1', '1', '1']
-rate: ['5', '5']
-task_id:['0']
-usefilness:4
-diversity:4
-comment: 9/10 are relevant
-

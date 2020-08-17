@@ -1,7 +1,0 @@
-name:8e3d537946350d7ab432e55a11b0e9a5
-usefilness:1
-diversity:2
-relevantId:['1', '1', '1', '0', '0', '0', '0', '1', '0', '0']
-comment:I didn't get what I expected in the recommendations in the first two searches. While after I delete the checked textfield, it starts to load some relevant recommendations. Limited inspiration was learnt from the recommendations.
-task_id:['1']
-time:['345.471'] s

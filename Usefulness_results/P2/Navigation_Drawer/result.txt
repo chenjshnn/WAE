@@ -1,7 +1,0 @@
-name:2aaa1bada8eed991c6826451ef785712
-usefilness:5
-diversity:4
-relevantId:['0', '1', '0', '0', '0', '0', '0', '0', '1', '0']
-comment:This one is much better
-time:['185.175'] s
-task_id:['4']

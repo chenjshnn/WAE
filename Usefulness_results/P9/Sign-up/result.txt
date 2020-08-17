@@ -1,7 +1,0 @@
-name:b264c486520dba4f52f6cf25f31ce87d
-usefilness:2
-diversity:3
-relevantId:['0', '0', '0', '0', '1', '0', '0', '1', '0', '0']
-comment:Only one matched, the other matched slightly but it was a login page
-task_id:['0']
-time:['277.708'] s

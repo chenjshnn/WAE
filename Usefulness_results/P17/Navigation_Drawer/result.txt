@@ -1,7 +1,0 @@
-name:9015bd1705566a9fcf0d3ae90c5cbfa7
-usefilness:5
-diversity:5
-relevantId:['1', '0', '0', '0', '1', '1', '0', '0', '1', '0']
-comment:Some of them are relevant and useful, they provide me with different layouts which can inspire me. The design styles and color matchings are various. However, the searching results are not good enough.
-task_id:['4']
-time:['628.621'] s

@@ -1,7 +1,0 @@
-name:16cb2bb125bd919384c9bb884ced3152
-usefilness:2
-diversity:4
-relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-comment:Some of them have similar functions, and most of them don't provide relevant layouts. But they have different design styles which can inspire me.
-task_id:['2']
-time:['404.531'] s

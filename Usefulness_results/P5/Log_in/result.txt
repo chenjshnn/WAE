@@ -1,7 +1,0 @@
-name:e17c675cbbfc2326c0e2199a59904e3b
-usefilness:3
-diversity:3
-relevantId:['1', '0', '0', '0', '1', '0', '1', '0', '0', '0']
-comment:The examples provided can not satisfy my need, I want more relative one can give me more ideas.
-task_id:['2']
-time:['398.162'] s

@@ -1,7 +1,0 @@
-name:34820eba4d81efa41a4c70f61ad9e0e7
-usefilness:3
-diversity:4
-relevantId:['1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-comment: 
-time:['87.973'] s
-task_id:['1']
