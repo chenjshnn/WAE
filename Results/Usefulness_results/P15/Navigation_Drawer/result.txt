@@ -1,0 +1,7 @@
+name:4e22d4ecc1625dfac58b3092852ae002
+usefilness:3
+diversity:2
+relevantId:['0', '0', '0', '0', '0', '1', '0', '0', '0', '0']
+comment:it is difficult to show the layout of this task with only such a few elements in the web
+task_id:['4']
+time:['378.822'] s

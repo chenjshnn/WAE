@@ -1,0 +1,7 @@
+name:962f1850317b26f5e75044e16b401208
+usefilness:4
+diversity:5
+relevantId:['1', '0', '0', '0', '0', '1', '0', '0', '1', '0']
+comment:Some recommendation inspire me while some do not. The recommending system may not be the only one to blame. I also dont think I have figured out what I need or expect to have
+task_id:['1']
+time:['778.235'] s

@@ -1,0 +1,7 @@
+name:141106cdf58d889750ca3b862307a951
+usefilness:4
+diversity:2
+relevantId:['0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
+comment:I want to design this surface as an open action. if u wanna get alter, then turn it on. Something like that. only two of them satisfy.
+time:['306.943'] s
+task_id:['3']

@@ -1,0 +1,7 @@
+name:33380b6b7b885fe1e3da5b9fabd74335
+usefilness:3
+diversity:2
+relevantId:['0', '1', '1', '0', '1', '1', '0', '0', '1', '0']
+comment:it is the form surface. the top button means returning back. imageview means update image. the rest is about the information we should fill in. but it still can not understand me well.
+time:['244.758'] s
+task_id:['0']

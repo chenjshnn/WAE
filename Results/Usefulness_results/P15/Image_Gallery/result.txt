@@ -1,0 +1,7 @@
+name:0eab6f7e8580f17e67b6ab012be7bb5a
+usefilness:4
+diversity:3
+relevantId:['0', '0', '0', '0', '0', '1', '1', '1', '0', '1']
+comment:there are not many different types.
+task_id:['1']
+time:['271.622'] s

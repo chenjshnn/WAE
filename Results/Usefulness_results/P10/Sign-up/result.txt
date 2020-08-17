@@ -1,0 +1,7 @@
+name:6b13cfb81abe9c1f3ed742b29fa91c08
+usefilness:5
+diversity:5
+relevantId:['1', '1', '0', '0', '0', '0', '0', '0', '0', '1']
+comment:Some of these recommendations fit my expectations and few of them are even better than what I could think of. But most of these suggestions seem irrelevant
+task_id:['0']
+time:['533.311'] s

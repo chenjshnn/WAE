@@ -1,0 +1,7 @@
+name:d64f7d27dfe6cf08d6fa648ece0a7e54
+usefilness:4
+diversity:3
+relevantId:['0', '0', '1', '0', '0', '1', '1', '1', '1', '1']
+comment:It gives me some ideas,but most of them in similar color and layout, maybe I need more diversity,some of them don not satisfy my need at all.
+task_id:['0']
+time:['847.56'] s

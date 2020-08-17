@@ -1,0 +1,7 @@
+name:33e988bfe8978c65a9c7d757f18e0d88
+usefilness:4
+diversity:4
+relevantId:['1', '0', '0', '1', '1', '1', '0', '0', '0', '0']
+comment:Half of the results are revelant, well done this time!
+task_id:['2']
+time:['131.08'] s

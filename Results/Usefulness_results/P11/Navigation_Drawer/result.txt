@@ -1,0 +1,7 @@
+name:5e964c50d8afad4b7d0be6e4696a493a
+usefilness:5
+diversity:5
+relevantId:['1', '1', '1', '0', '1', '0', '1', '0', '1', '0']
+comment:this tool can recommend related results in a variety of styles.
+task_id:['4']
+time:['267.393'] s

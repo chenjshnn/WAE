@@ -1,0 +1,9 @@
+pytorch==1.0.1
+numpy
+pillow
+pyflann
+tqdm
+pickle
+glob
+os
+argparse
