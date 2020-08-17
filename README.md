@@ -6,7 +6,7 @@ Wireframe-Based UI Design Search Through Image Autoencoder
 - Paper: [paper](./tosem2020-uisearch-jieshan.pdf)
 - Raw Dataset: [Dropbox](https://www.dropbox.com/sh/kfkhevxykzwputb/AAAhL6ipmOg4zZn4jUL_myF0a?dl=0)
 - Wireframe Dataset: Please use [the wirification code](./wirification_code/wirification.py) to generate the wireframe dataset from the raw dataset
-- Code: Would update upon request
+- Code: see [code](./code)
 
 
 ## Video DEMO
