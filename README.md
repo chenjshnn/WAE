@@ -22,13 +22,13 @@ The website in demo is not supported currently.
 <p align="center"><img src="./assets/database.png"></p>
 
 
-
 ## Examples
 <p align="center"><img src="./assets/approach_example.png"></p>
 
 Due to the large size of our automatic experiment results (which is about 45GB), we are still working on uploading these data.
 
 ## Usefulness Evaluation Examples
-![Usefulness Examples](./assets/Usefulness_example.pdf)
+
+<img src="./assets/Usefulness_example.pdf" alt-txt= "Usefulness Examples"></img>
 
 <p>More results can be seen in Usefulness_results Folder.<p>
