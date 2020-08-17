@@ -1,7 +1,7 @@
 Wireframe-Based UI Design Search Through Image Autoencoder
 ============================================================
 
-Accepted to TOSEM.
+**Accepted to TOSEM**
 
 ## Resource
 
