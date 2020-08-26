@@ -34,3 +34,19 @@ Due to the large size of our automatic experiment results (which is about 45GB),
 See [examples](./assets/Usefulness_example.pdf)
 
 [More results](./results/Usefulness_results)
+
+
+# Citation
+
+```
+@article{chen2020wireframe,
+  title={Wireframe-based UI design search through image autoencoder},
+  author={Chen, Jieshan and Chen, Chunyang and Xing, Zhenchang and Xia, Xin and Zhu, Liming and Grundy, John and Wang, Jinshui},
+  journal={ACM Transactions on Software Engineering and Methodology (TOSEM)},
+  volume={29},
+  number={3},
+  pages={1--31},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+```
